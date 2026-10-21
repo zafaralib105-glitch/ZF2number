@@ -2,16 +2,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Watch More</title>
-  <meta property="og:title" content="Watch More">
-  <meta property="og:description" content="Visit our website">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Lifestyle</title>
+
+  <meta property="og:title" content="Daily Lifestyle">
+  <meta property="og:description" content="Visit Daily Lifestyle">
   <meta property="og:image" content="https://linksxx6x.com/uploads/3459a13cc3038869.jpg">
   <meta property="og:type" content="website">
 </head>
 <body>
-  <h1>Watch More</h1>
-  <p>Welcome to our website.</p>
-  <img src="preview.jpg" alt="Website preview" width="300">
+  <a href="https://dailylifestyle.cloud/html/?utm_source=Top&amp;utm_medium=ZF2">
+    <img src="https://linksxx6x.com/uploads/3459a13cc3038869.jpg"
+         alt="Daily Lifestyle"
+         style="width:100%;max-width:600px;height:auto;">
+  </a>
 </body>
 </html>
